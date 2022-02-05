@@ -45,13 +45,66 @@ In-person class meetings will focus on discussions, student presentations, and a
 Grading
 -------
 
-| activities | percentages |
-| --- | --- |
-| Class Discussions/Peer Review   | 10% |
-| Completion of online course material, 22.011x   | 30% |
-| Technical Note (1–2 pages, see example)   | 25% |
-| Final Op-Ed (~750 words, see examples)   | 25%   |
-| Presentation of Op-Ed (media of choice) | 10%   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿Class Discussions/Peer Review  
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿Completion of online course material, 22.011x  
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿Technical Note (1–2 pages, see example)  
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿Final Op-Ed (~750 words, see examples)  
+{{< tdclose >}}
+{{< tdopen >}}
+﻿25%  
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation of Op-Ed (media of choice)
+{{< tdclose >}}
+{{< tdopen >}}
+﻿10%  
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Ethics
 ------
