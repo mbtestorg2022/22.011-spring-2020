@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/dfc5cc5e7a23d03bc1674e9423eeaece_MIT22_011S20_NuclearEnergy.pdf
 file_type: application/pdf
+parent_uid: c6c9e164-7413-2ff1-0047-7449c617ca5e
 resourcetype: Document
 title: 'Op-Ed: Nuclear Energy: A solution to the biggest problems'
 uid: dfc5cc5e-7a23-d03b-c167-4e9423eeaece

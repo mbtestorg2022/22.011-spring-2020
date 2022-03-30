@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: af9e3069-18b1-4bb5-846c-9eed512d88c9
 resourcetype: Image
 title: Why.png
 uid: a88a9663-b50c-7abc-73d6-eb2f1510f003
